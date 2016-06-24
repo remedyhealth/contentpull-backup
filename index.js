@@ -4,9 +4,9 @@ const path = require('path');
 const fs = require('fs');
 
 /**
- * @example
- * const Contentpull = require('contentpull');
- * Contentpull.use(require('contentpull-backup'));
+ * Creates a local backup of a space.
+ * @param {String} localPath - The local path to save the file. Outputs as JSON.
+ * @returns {Promise<JSON>} The promise instance that resolves a 
  */
 module.exports = function backup(localPath) {
     // still allow access to contentpull scope
