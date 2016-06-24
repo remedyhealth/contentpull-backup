@@ -1,0 +1,24 @@
+{
+  "name": "contentpull-backup",
+  "version": "1.0.0",
+  "description": "A Contentpull extension for creating a local backup of your space and contents.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remedyhealth/contentpull-backup.git"
+  },
+  "keywords": [
+    "contentpull",
+    "contentful",
+    "backup"
+  ],
+  "author": "Matt Steele <matt@omnionline.us> (http://omnionline.us)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/remedyhealth/contentpull-backup/issues"
+  },
+  "homepage": "https://github.com/remedyhealth/contentpull-backup#readme"
+}
