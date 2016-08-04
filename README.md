@@ -36,3 +36,7 @@ puller.backup('./backup.json').then(() => {
 
 * **saveLocation** (*String*) - Where to save the file. It is wrapped in
 `path.resolve` so you can use a local location.
+
+### License
+
+MIT
